@@ -1,0 +1,43 @@
+/* Body — primary */
+.text-body {
+  color: var(--fg-primary);
+  font-family: var(--font-primary);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: var(--tracking-tight);
+}
+
+/* Body — secondary (muted) */
+.text-secondary {
+  color: var(--fg-secondary);
+  font-family: var(--font-primary);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: var(--tracking-tight);
+}
+
+/* Body — tertiary (very muted, timestamps etc) */
+.text-tertiary {
+  color: var(--fg-tertiary);
+  font-family: var(--font-primary);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: var(--tracking-tight);
+}
+
+/* Accent — blue italic (links, highlights) */
+.text-accent {
+  color: var(--blue-20);
+  font-family: var(--font-primary);
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: var(--tracking-tight);
+}
