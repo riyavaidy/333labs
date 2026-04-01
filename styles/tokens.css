@@ -1,0 +1,13 @@
+:root {
+  /* Colors */
+  --fg-primary: rgba(0, 0, 0, 0.90);
+  --fg-secondary: rgba(0, 0, 0, 0.64);
+  --fg-tertiary: rgba(0, 0, 0, 0.40);
+  --blue-20: #6F7CF8;
+
+  /* Typography */
+  --font-primary: -apple-system, BlinkMacSystemFont, "SF Pro", "SF Pro Text", "SF Pro Display", sans-serif;
+
+  /* Letter spacing */
+  --tracking-tight: -0.336px;
+}
